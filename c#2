@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace cclearncp2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            double age = 17;
+
+            int age = Convert.ToInt32(age);
+
+            Console.WriteLine(age);
+            
+        }
+    }
+}
